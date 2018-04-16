@@ -8,8 +8,8 @@
 //========================================//
 
 // Set Username & Password
-$user = "I-47";
-$pass = "I-47";
+$user = "admin";
+$pass = "74r1qul";
 
 function zWM($NXlKO)
 { 
