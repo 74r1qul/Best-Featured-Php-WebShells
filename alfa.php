@@ -1,7 +1,7 @@
 <?php
 $GLOBALS['DB_NAME'] = array(
 	'user' => 'admin',
-	'pass' => '285f50029090af5de63c79700c4c4565',
+	'pass' => '285F50029090AF5DE63C79700C4C4565',
 	'safemode' => '0',
 	'login_page' => 'gui',
 	'show_icons' => '1',
